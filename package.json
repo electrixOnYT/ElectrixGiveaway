@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zero",
-  "license": "CC-Zero",
+  "author": "Electrix",
+  "license": "MIT",
   "keywords": [
     "discord",
     "giveaways",
@@ -25,7 +25,7 @@
     "node": "16.x"
   },
   "repository": {
-    "url": "https://github.com/ZeroDiscord/Giveaway"
+    "url": "https://github.com/electrixOnYT/ElectrixGiveaway"
   },
   "devDependencies": {
     "node": "^16.9.1"
