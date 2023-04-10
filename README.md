@@ -10,7 +10,7 @@ The Developer of this bot is **Electrix#0001**. He created many bots in the past
 The Sponsor of Electrix Giveaway is [Delta Hosting](https://discord.gg/qzKKGu3Rut) and they have free and premium hosting. They offer you good hosting, high resources with low ping. 
 
 
-https://media.discordapp.net/attachments/1070905173641281688/1071091078666661969/standard_1.gif
+
 # Credits
 
 Do not remove any credit of this bot.
